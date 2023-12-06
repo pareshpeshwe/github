@@ -1,1 +1,2 @@
-Adding second file to Git
+Adding second file to Git.
+Adding some changes here.
