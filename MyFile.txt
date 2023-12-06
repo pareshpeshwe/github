@@ -1,3 +1,4 @@
 Adding first line to the file.
 Adding second line to the file.
 Some changes made here.
+some changes.
