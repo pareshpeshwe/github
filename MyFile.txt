@@ -9,3 +9,8 @@ Adding new change.
 New change.
 change.
 Adding checkout module.
+
+public void logout()
+{
+This is the code for logout;
+}
