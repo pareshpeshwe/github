@@ -14,3 +14,7 @@ public void login()
 {
 This is the code for login;
 }
+public void logout()
+{
+This is the code for logout;
+}
